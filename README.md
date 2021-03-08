@@ -5,6 +5,9 @@
 Guia geral Rcpp feito pelo Hadley
 - https://r-pkgs.org/src.html#cpp
 
+Galeria de exemplos em Rcpp
+- https://gallery.rcpp.org/
+
 Códigos de exemplos em Rcpp
 - https://dirk.eddelbuettel.com/code/rcpp.examples.html
 
@@ -25,3 +28,9 @@ Códigos de exemplos em Rcpp
 
 5. Mesclando tipos entre Rcpp e RcppArmadillo.
 - https://scholar.princeton.edu/sites/default/files/q-aps/files/slides_day4_am.pdf
+
+## Pacotes em Rcpp que valem a pena dar uma olhada:
+
+- [RcppArmadillo]()
+- [RcppEigen](http://dirk.eddelbuettel.com/code/rcpp.eigen.html)
+- [bh - Boost Headers](https://github.com/eddelbuettel/bh)
